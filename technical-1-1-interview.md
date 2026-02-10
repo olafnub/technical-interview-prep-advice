@@ -10,5 +10,8 @@ But then I came back to the video later on when I got invivted for a techinical 
 to finish video #1.
 
 ### Pro-Tip
-A good advice I read is to go into the interview with the mindset of tackling the problem together with the interviewer. 
-Pretend you're back in grade school and a classmates asked if you can help them with their problem. You're at their hovering over them working through the problem together.
+A good advice I read is to go into the interview with the mindset of tackling the problem together with the interviewer. Pretend you're back in grade school and a classmates asked if you can help them with their problem. You're at their hovering over them working through the problem together.
+
+- Ask for help when help is needed.
+- When finishing brainstorming / psuedocoding, ask if you're on the right track.
+- Again, you're solving this problem **together** with the interviewer, they **want** you to succeed. Be kind, respectful, and take initiative!
