@@ -1,5 +1,5 @@
 ### General Advice
-Here's what helped me, watch and try to learn how to better at interviewing by explaining your thought process, and just being a collaborative person overall.
+Here's what helped me, watch and try to learn how to better at interviewing by explaining your thought process, and just being a collaborative person overall. This is different from your codesignals and onliine assessments.
 
 1. https://youtu.be/1qw5ITr3k9E?si=vdTA2MuJ7v7FwB-o
 2. https://youtu.be/46dZH7LDbf8?si=w7LZsauvPFJMzpbR
