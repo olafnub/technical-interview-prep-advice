@@ -1,4 +1,6 @@
-# andydoes-writing
+# What is this?
+
+Writings about breaking into tech if you're a comp-sci student that's not sure what's next. Sharing my advice & learnings throughout my 5 years of being a student interested in computer science. (2021-2026)
 
 ### Background
 **(A)** Currently a super-senior @ the university of minnesota. I've been wanting to share all my advice and tips for the upcoming generation of CS majors, as well as to those still going through the major.
